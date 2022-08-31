@@ -1,0 +1,19 @@
+.logo-icon1{
+    width: 50px;
+}
+
+.logo-icon2{
+    width: 20px;
+}
+
+.device{
+    width: 500px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+footer{
+    background-color: rgba(217, 209, 209, 0.948)
+}
